@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1719577648 source:c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+
+1719577644 c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\snake.h
+	<vector>
+
+1719578846 source:c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\game.cpp
+	<string>
+	<iostream>
+	<cmath>
+	<chrono>
+	<thread>
+	<fstream>
+	<algorithm>
+	"game.h"
+
+1719562246 c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\game.h
+	"curses.h"
+	<string>
+	<vector>
+	<memory>
+	"snake.h"
+
+1655723618 c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1719560269 source:c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\main.cpp
+	"game.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655959722 source:c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\snake.cpp
+	<string>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"snake.h"
+
+1655913589 c:\users\lenovo\desktop\pri\grade one 3rd\programming practice\snakegame_mock\snake_src_mock\snake.h
+	<vector>
+
